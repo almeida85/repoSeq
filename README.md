@@ -6,7 +6,7 @@ BLASTIdentityClust.py:
 - Performs BLAST search.
 - Clusters sequences by identity.
                        
-pdb2seq: 
+pdb2seq.py: 
 - Extracts sequences from PDB files.
 - Performs BLAST search
 - Generates a file with useful data of the protein. Based in ProtParam Tools from Expasy
