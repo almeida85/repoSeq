@@ -1,4 +1,4 @@
-# pdb2seq
+# repoSeq
 This repo contains two scripts that can be also used as modules.
 
 BLASTIdentityClust.py:
