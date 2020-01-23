@@ -8,8 +8,8 @@ BLASTIdentityClust.py:
                        
 pdb2seq.py: 
 - Extracts sequences from PDB files.
-- Performs BLAST search
-- Generates a file with useful data of the protein. Based in ProtParam Tools from Expasy
-- Calculates the extinction coefficient from the sequence
+- Performs BLAST search.
+- Generates a file with useful data of the protein. Based in ProtParam Tools from Expasy.
+- Calculates the extinction coefficient from the sequence.
          
 Contact: yasser.almeida@gmail.com
